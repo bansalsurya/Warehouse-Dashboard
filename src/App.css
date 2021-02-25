@@ -24,6 +24,9 @@
     height: 70vh;
     overflow: hidden;
 }
+.ColumnReset{
+    column-count: 2;
+}
 
 .App-header {
     background-color: #282c34;
