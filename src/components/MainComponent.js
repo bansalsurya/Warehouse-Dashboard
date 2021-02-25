@@ -122,25 +122,26 @@ function MainComponent() {
                     <div
                         className="row"
                         style={{
-                            height: '5vh'
+                            height: '5vh',
+                           
                         }}
                     >
                         <div
-                            className="col-sm-4 col-md-2"
+                            className="col-sm-4 col-md-3"
                             style={{
                                 color: '#fff',
                                 fontSize: 24,
-                                width: '100%'
-                            }}
+                               }}
                         >
                             {weekday},
                         </div>
                         <div
-                            className="col-sm-8 col-md-10"
+                            className="col-sm-8 col-md-9"
                             style={{
                                 color: '#42426A',
                                 fontSize: 24,
-                                width: '100%'
+                                textAlign:'left',
+                                padding:0,
                             }}
                         >
                             {date}
