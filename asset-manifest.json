@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Warehouse-Dashboard/static/css/main.7ce9821b.chunk.css",
+    "main.js": "/Warehouse-Dashboard/static/js/main.5429f6f9.chunk.js",
+    "main.js.map": "/Warehouse-Dashboard/static/js/main.5429f6f9.chunk.js.map",
+    "runtime-main.js": "/Warehouse-Dashboard/static/js/runtime-main.109969f7.js",
+    "runtime-main.js.map": "/Warehouse-Dashboard/static/js/runtime-main.109969f7.js.map",
+    "xlsx.js": "/Warehouse-Dashboard/static/js/xlsx.862d43bd.chunk.js",
+    "xlsx.js.map": "/Warehouse-Dashboard/static/js/xlsx.862d43bd.chunk.js.map",
+    "static/css/3.4c97ca4f.chunk.css": "/Warehouse-Dashboard/static/css/3.4c97ca4f.chunk.css",
+    "static/js/3.568b75c8.chunk.js": "/Warehouse-Dashboard/static/js/3.568b75c8.chunk.js",
+    "static/js/3.568b75c8.chunk.js.map": "/Warehouse-Dashboard/static/js/3.568b75c8.chunk.js.map",
+    "static/js/4.e72a8f56.chunk.js": "/Warehouse-Dashboard/static/js/4.e72a8f56.chunk.js",
+    "static/js/4.e72a8f56.chunk.js.map": "/Warehouse-Dashboard/static/js/4.e72a8f56.chunk.js.map",
+    "static/js/5.7d5c6208.chunk.js": "/Warehouse-Dashboard/static/js/5.7d5c6208.chunk.js",
+    "static/js/5.7d5c6208.chunk.js.map": "/Warehouse-Dashboard/static/js/5.7d5c6208.chunk.js.map",
+    "static/js/6.844b7287.chunk.js": "/Warehouse-Dashboard/static/js/6.844b7287.chunk.js",
+    "static/js/6.844b7287.chunk.js.map": "/Warehouse-Dashboard/static/js/6.844b7287.chunk.js.map",
+    "static/js/7.373d093b.chunk.js": "/Warehouse-Dashboard/static/js/7.373d093b.chunk.js",
+    "static/js/7.373d093b.chunk.js.map": "/Warehouse-Dashboard/static/js/7.373d093b.chunk.js.map",
+    "index.html": "/Warehouse-Dashboard/index.html",
+    "static/css/3.4c97ca4f.chunk.css.map": "/Warehouse-Dashboard/static/css/3.4c97ca4f.chunk.css.map",
+    "static/css/main.7ce9821b.chunk.css.map": "/Warehouse-Dashboard/static/css/main.7ce9821b.chunk.css.map",
+    "static/js/3.568b75c8.chunk.js.LICENSE.txt": "/Warehouse-Dashboard/static/js/3.568b75c8.chunk.js.LICENSE.txt",
+    "static/js/5.7d5c6208.chunk.js.LICENSE.txt": "/Warehouse-Dashboard/static/js/5.7d5c6208.chunk.js.LICENSE.txt",
+    "static/js/6.844b7287.chunk.js.LICENSE.txt": "/Warehouse-Dashboard/static/js/6.844b7287.chunk.js.LICENSE.txt",
+    "static/media/dispatch.a7c894b2.svg": "/Warehouse-Dashboard/static/media/dispatch.a7c894b2.svg",
+    "static/media/eyantra.ed4aea70.svg": "/Warehouse-Dashboard/static/media/eyantra.ed4aea70.svg",
+    "static/media/order.bd40c887.svg": "/Warehouse-Dashboard/static/media/order.bd40c887.svg",
+    "static/media/shipped.4fa3e81a.svg": "/Warehouse-Dashboard/static/media/shipped.4fa3e81a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.109969f7.js",
+    "static/css/3.4c97ca4f.chunk.css",
+    "static/js/3.568b75c8.chunk.js",
+    "static/css/main.7ce9821b.chunk.css",
+    "static/js/main.5429f6f9.chunk.js"
+  ]
+}
